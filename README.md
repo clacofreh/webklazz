@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there/Hola 👋
+```javascript
+const Webklazz = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "UX/UI designer"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue", "React"],
+            css: ["bootstrap","Materialize","sass","Material-ui"]
+        },
+        backEnd: ["Node", "PHP",".NET"],
+        databases: ["MySql", "Mongo"],
+        DesignTools:["Illustrator","Photoshop"]
+    }
+};
+```
 
 <!--
 **webklazz/webklazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
