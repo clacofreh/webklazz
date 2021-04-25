@@ -4,13 +4,19 @@ const Webklazz = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "UX/UI designer"],
     technologies: {
-        frontEnd: {
-            js: ["Vue", "React"],
-            css: ["bootstrap","Materialize","sass","Material-ui"]
+        FrontEnd: {
+            js: ["React"],
+            css: ["bootstrap","Materialize","sass","MaterialUi"]
         },
-        backEnd: ["Node", "PHP",".NET"],
-        databases: ["MySql", "Mongo"],
+         Mobil: {
+            js: ["React-Native"],
+            css: ["nativeBase","react-native-paper"]
+        },
         DesignTools:["Illustrator","Photoshop"]
+        BackEnd: ["Node",".NET"],
+        Databases: ["MySql", "Mongo"],
+        QueryLanguages:["SQL","GraphQL"]
+     
     }
 };
 ```
