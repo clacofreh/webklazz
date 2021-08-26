@@ -6,13 +6,13 @@ const Webklazz = {
     technologies: {
         FrontEnd: {
             js: ["React"],
-            css: ["bootstrap","Materialize","sass","MaterialUi"]
+            css: ["styled-components","css","sass","tailwind"]
         },
          Mobil: {
             js: ["React-Native"],
-            css: ["nativeBase","react-native-paper"]
+            css: ["styled-components","Stylesheet"]
         },
-        DesignTools:["Illustrator","Photoshop"]
+        DesignTools:["Illustrator","Photoshop", "Figma"]
         BackEnd: ["Node",".NET"],
         Databases: ["MySql", "Mongo"],
         QueryLanguages:["SQL","GraphQL"]
