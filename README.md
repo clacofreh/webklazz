@@ -2,13 +2,13 @@
 ```javascript
 const Webklazz = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "UX/UI designer"],
+    askMeAbout: ["web dev", "Fullstack dev"],
     technologies: {
         FrontEnd: {
             js: ["React"],
             css: ["styled-components","css","sass","tailwind"]
         },
-         Mobil: {
+         Mobile: {
             js: ["React-Native"],
             css: ["styled-components","Stylesheet"]
         },
